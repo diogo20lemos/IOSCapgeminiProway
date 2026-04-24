@@ -22,7 +22,7 @@
 
 
 /*
- IMPORTANTE: esse codigo só roda em um projeto criado do tipo comand line
+ IMPORTANTE: esse codigo só roda em um projeto criado do tipo command line
  Caso for rodar crie um projeto do tipo comend line e descomente a ultima
  linha desse codigo que tem o main
  */
